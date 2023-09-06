@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(void){
+    char grade = A;
+    int Age = 19;
+    float GPA = 3.99;
+    double Next GPA = 4.000;
+    printf("My grade\t=%c\n"grade) 
+    printf("My Age\t=%d\n"Age)
+    printf("My GPA\t%.2f"GPA)
+    printf("My Next GPA\t%.4f"Next GPA)
+    return 0;
+}
